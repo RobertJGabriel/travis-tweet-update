@@ -1,4 +1,4 @@
-# Tweet Build Update
+# Tweet Build Update [![Build Status](https://travis-ci.org/RobertJGabriel/travis-tweet-update.svg?branch=master)](https://travis-ci.org/RobertJGabriel/travis-tweet-update)
 
 > Tweet out when a successful update/roll out has been released.
 
