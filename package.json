@@ -1,6 +1,6 @@
 {
   "name": "travis-tweet-update",
-  "version": "0.0.0",
+  "version": "0.5.0",
   "description": "Tweet on successful build with link to website or link.",
   "homepage": "https://www.robertgabriel.ninja",
   "author": {
